@@ -1,5 +1,10 @@
 [
   {
+    "code": "&macro_kinesis",
+    "name": "macro_kinesis",
+    "params": []
+  },
+  {
     "code": "&bl",
     "name": "Backlight",
     "includes": ["#include <dt-bindings/zmk/backlight.h>"],
